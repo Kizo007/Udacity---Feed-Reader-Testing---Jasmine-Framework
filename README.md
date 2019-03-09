@@ -6,8 +6,8 @@
 #Why this Project?
 #What will I learn?
 #How to run the application?
-# Contributing
-# Tests
+#Contributing
+#Tests
 
 
 ## About the project
