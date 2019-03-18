@@ -3,6 +3,7 @@
 ## Table of Contents
 
 #About the project
+#How To Play
 #Why this Project?
 #What will I learn?
 #How to run the application?
@@ -14,7 +15,13 @@
 
 In this project we are given a web-based application that reads RSS feeds by Udacity. The tests are added using Jasmine to check the functionalites of the code written.
 
-Check this project in your browser by following this link: https://codepen.io/kizo007/pen/aMwwzL
+## How To Play
+
+1.Download or clone the repository on your machine.
+
+2.Extract the .zip file
+
+3.Open index.html in your browser
 
 
 ## Why this Project?
